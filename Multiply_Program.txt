@@ -1,0 +1,7 @@
+class Mul{
+
+public static void main(String [] args){
+
+mul(10,20);
+} 
+}
